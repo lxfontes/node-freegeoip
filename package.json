@@ -1,0 +1,25 @@
+{
+    "name": "node-freegeoip",
+    "preferGlobal": "true",
+    "private": true,
+    "version": "0.0.1",
+    "author": "Lucas Fontes <lxfontes@gmail.com>",
+    "contributors": [
+        { "name":"Alex Fiori", "email":"fiorix@gmail.com" }
+    ],
+    "main": "./lib/freegeoip",
+    "description": "freegeoip.net bindings",
+    "license": "BSD",
+    "engines": {
+        "node": ">=0.8"
+    },
+    "scripts": {
+        "test": "mocha -u tdd -R spec"
+    },
+    "dependencies": {
+        "request": "*"
+    },
+    "devDependencies": {
+        "mocha"      : "*"
+    }
+}
