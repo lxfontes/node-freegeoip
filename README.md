@@ -1,6 +1,6 @@
 freegeoip.net bindings for NodeJS.
 
-[![Build Status](https://travis-ci.org/lxfontes/node-freegeoip.png)](https://travis-ci.org/lxfontes/freegeoip)
+[![Build Status](https://travis-ci.org/lxfontes/node-freegeoip.png)](https://travis-ci.org/lxfontes/node-freegeoip)
 
 # Install
 
