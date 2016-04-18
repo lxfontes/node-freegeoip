@@ -19,6 +19,9 @@ The usual
         console.log(location);
     });
 
+If you concerned about latency, you can set the maximum time to wait for a response from freegeoip.net. It is set to 3000 milliseconds by default.
+
+    freegeoip.maxLatency = 750;
 
 # Running your own server ?
 
